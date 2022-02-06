@@ -147,7 +147,6 @@ class RSBGDocker(DockWidget):
             self.tailPosition[i].setText(str(i+1))
             self.tailPosition[i].clicked.connect(self.updatePreview)
             tailPositionsLayout.addWidget(self.tailPosition[i])
-
         
         self.tailPositions.setLayout(tailPositionsLayout)
         self.tailPositions.setDisabled(True)
