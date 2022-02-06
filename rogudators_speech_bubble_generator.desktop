@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=rogudators_speech_bubble_generator
+X-Python-2-Compatible=false
+Name=Rogudator's Speech Bubble Generator
+Comment=Type text and create speech bubble around it automatically!
