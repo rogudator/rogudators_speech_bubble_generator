@@ -1,4 +1,4 @@
-![RSBG logo](/rogudators_comic_panel_generator/logo_rsbg.png)
+![RSBG logo](/rogudators_speech_bubble_generator/logo_rsbg.png)
 A plugin for Krita to make speech bubbles faster.<br>
 check out plugin in action: https://www.youtube.com/watch?v=iZcncdf90Os <br>
 also check out a video how to install plugin: https://www.youtube.com/watch?v=1LkmuH2tbZc <br>
