@@ -133,7 +133,7 @@ class RSBGDocker(DockWidget):
         tailSliderAndSpinBox.addWidget(self.tailSlider)
         self.tailSpinBox = QSpinBox(self)
         self.tailSpinBox.setMinimum(0)
-	self.tailSpinBox.setMaximum(self.speechFontSize.value()*10)
+        self.tailSpinBox.setMaximum(self.speechFontSize.value()*10)
         tailSliderAndSpinBox.addWidget(self.tailSpinBox)
         tailSize.setLayout(tailSliderAndSpinBox)
         mainLayout.addWidget(tailSize)
